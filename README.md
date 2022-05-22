@@ -60,10 +60,6 @@ After completing this project, I am very curious about how much you can really d
 
 If I were given more time to work on this project, I would be interested in adding additional features to this game. One additional feature that I want to implement is a timer additional feature however, the timer will speed up with every level increase. This will increase the difficulty of the game and will make the user more invested in winning. The second additional feature I'm interested in adding is adding a difficulty option. User's are able to pick Easy, Medium, or Hard and the clueHoldTime constant will vary based on the difficulty and other additional features can be adjusted based on difficulty level. Another additional feature I want to add is after a set interval of levels, the number of buttons increases. If the user was given the option to pick difficulty and were to pick the hard difficulty level, the number of buttons increases and makes the game increasingly difficult as it progresses. The last additional feature I want to implement is if given a difficulty option and the hard difficulty was chosen, the positions of the colored blocks change as the levels increase. This will create more difficulty and will increase the users' interest.
 
-## Interview Recording URL Link
-
-[My 5-minute Interview Recording] https://drive.google.com/file/d/1uNIJMShAzhXQoOP-EJrXU-aC6Y-V_Wnc/view?usp=sharing
-
 
 ## License
 
